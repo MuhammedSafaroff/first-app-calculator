@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="beraber">=</string>
+    <string name="noqte">.</string>
+    <string name="topla">+</string>
+    <string name="cix">-</string>
+    <string name="vur">x</string>
+    <string name="bol">÷</string>
+    <string name="bir">1</string>
+    <string name="iki">2</string>
+    <string name="uc">3</string>
+    <string name="dord">4</string>
+    <string name="bes">5</string>
+    <string name="alti">6</string>
+    <string name="yeddi">7</string>
+    <string name="sekkiz">8</string>
+    <string name="doqquz">9</string>
+    <string name="sifir">0</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="faktorial">X!</string>
+    <string name="kokalti">√</string>
+    <string name="faiz">%</string>
+    <string name="modul">| x |</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="minplus">-/+</string>
+    <string name="xeta">=Xəta baş verdi!</string>
+
+
+</resources>
